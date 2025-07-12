@@ -4,24 +4,18 @@ author: "One For Freedom"
 description: "A full 105 key ISO keybord"
 created_at: "11/07/25 DD/MM/YY"
 ---
+TOTAL TIME TAKEN: 18H + 80H (prev projects)
+
 
 Are we rollin' bois?..
 
-Entry 1: The begining of an era (12 Jul 2025)
+Entry A: Speed Run To completion.
 
-Since I made old keebs, I reused old ali express listings which expedidted the time it took me to get parts.
-I made a schematic. and the pcb.
-Routing was a BIG pain in the ass. But in the end. I got 
+WOWEE! A THIRD KEEB DONE!! IN ONE DAY!!
+(ofc it did take like 80 hours previously when making keebs. (thats how long it took my first one) but after reusing parts and info (since I'm only allowed to submit one keyboard) I somewhat totalled all the time into one.
+I completed the schematic, pcb, cad and item research. totalling to under 150 dollars!
+I worked non stop for this lmao but I'm glad I did. this is one of the things I'm proud to make and proud to keep in my home forever!
+Here are some images, BOMS can be found in the BOM in this repository and every thing else needed for this submission to work!
+Thanks for reading! I'll update when I get all the items!
 
-Schematic done
-PCB done.
-Shopping items/bom (not yet)
-
-Some Images:
-
-
-
-
-Total time worked on: 9 hours.
-
-Cya tomorrow for entry 2!
+IMAGES: 
