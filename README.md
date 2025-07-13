@@ -4,8 +4,8 @@ This is a FULL iso layout keyboard (105 keys) and has a rot enc for volumne cont
 
 # Mouth watering images (Ik youre salavating):
 
+![FreeBoard V2 BG](/Images/FreeBoard%20V2%20BG.png)     
 ![FreeBoard V2 3D](/Images/FreeBoard%20V2%203D.png)       
-![FreeBoard V2 BG](/Images/FreeBoard%20V2%20BG.png)       
 ![FreeBoard V2 NBG](/Images/FreeBoard%20V2%20NBG.png)     
 ![FreeBoard V2 PCB](/Images/FreeBoard%20V2%20PCB.png)     
 ![FreeBoard V2 Schematic](/Images/FreeBoard%20V2%20Schematic.png) 
