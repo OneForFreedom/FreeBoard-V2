@@ -19,3 +19,8 @@ Here are some images, BOMS can be found in the BOM in this repository and every 
 Thanks for reading! I'll update when I get all the items!
 
 IMAGES: 
+![FreeBoard V2 BG](/Images/FreeBoard%20V2%20BG.png)     
+![FreeBoard V2 3D](/Images/FreeBoard%20V2%203D.png)       
+![FreeBoard V2 NBG](/Images/FreeBoard%20V2%20NBG.png)     
+![FreeBoard V2 PCB](/Images/FreeBoard%20V2%20PCB.png)     
+![FreeBoard V2 Schematic](/Images/FreeBoard%20V2%20Schematic.png) 
