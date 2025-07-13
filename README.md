@@ -25,8 +25,8 @@ This is a FULL iso layout keyboard (105 keys) and has a rot enc for volumne cont
 | Rotary Encoder Caps | 1.06      | 1.43       | [Link](https://www.aliexpress.com/item/1005005983134515.html) |
 | Raspberry Pi Pico   | 2.08      | 2.81       | [Link](https://www.aliexpress.com/item/1005008513003531.html) |
 | USB Cable (Micro)   | 0.93      | 1.26       | [Link](https://www.aliexpress.com/item/1005007138392516.html) |
-| JLCPCB PCB          | 46.27     | 62.46      | [Link](jlcpcb.com)    |
-| Royal Mail Shipping | 3.35      | 4.52       | [Link](royalmail.com) |
+| JLCPCB PCB          | 46.27     | 62.46      | [Link](https://www.jlcpcb.com)    |
+| Royal Mail Shipping | 3.35      | 4.52       | [Link](https://www.royalmail.com) |
 
 | Currency | Amount   |
 | -------- | -------- |
