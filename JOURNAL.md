@@ -18,7 +18,7 @@ I worked non stop for this lmao but I'm glad I did. this is one of the things I'
 Here are some images, BOMS can be found in the BOM in this repository and every thing else needed for this submission to work!
 Thanks for reading! I'll update when I get all the items!
 
-IMAGES: 
+# IMAGES: 
 ![FreeBoard V2 BG](/Images/FreeBoard%20V2%20BG.png)     
 ![FreeBoard V2 3D](/Images/FreeBoard%20V2%203D.png)       
 ![FreeBoard V2 NBG](/Images/FreeBoard%20V2%20NBG.png)     
