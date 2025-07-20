@@ -1,4 +1,4 @@
-xItem,Price (GBP),Price (USD),Link
+Item,Price (£),Price ($),Link
 Stab Lube,1.52,2.05,https://www.aliexpress.com/item/1005008432501049.html
 Keycaps,7.41,10.00,https://www.aliexpress.com/item/1005006922735195.html
 Stabilisers (Stabs),6.39,8.63,https://www.aliexpress.com/item/32719735398.html
@@ -17,8 +17,10 @@ Hex Screws,7.44,10.04,https://www.aliexpress.com/item/1005004833667162.html
 Rotary Encoder Caps,1.06,1.43,https://www.aliexpress.com/item/1005005983134515.html
 Raspberry Pi Pico,2.08,2.81,https://www.aliexpress.com/item/1005008513003531.html
 USB Cable (Micro),0.93,1.26,https://www.aliexpress.com/item/1005007138392516.html
-AliExpress Items Total,62.03,82.74,
-JLCPCB PCB,46.27,62.46,jlcpcb.com
-Royal Mail Shipping,3.35,4.52,royalmail.com
-PCB + Shipping Total,49.62,66.98,
-Grand Total,111.65,150.72 (-1 dollar discount not included),
+Felt Pads (to mount pcb),N/A,N/A,N/A
+JLCPCB PCB,46.27,62.46,https://www.jlcpcb.com
+Royal Mail Shipping,3.35,4.52,https://www.royalmail.com
+
+Currency,Amount
+Pounds,£111.65
+Dollars,$150.72 (ONE DOLLAR DISCOUNT MAKES THIS $149.72)
