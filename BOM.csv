@@ -20,7 +20,6 @@ USB Cable (Micro),0.93,1.26,https://www.aliexpress.com/item/1005007138392516.htm
 Felt Pads (to mount pcb),N/A,N/A,N/A
 JLCPCB PCB,46.27,62.46,https://www.jlcpcb.com
 Royal Mail Shipping,3.35,4.52,https://www.royalmail.com
-
-Currency,Amount
-Pounds,£111.65
-Dollars,$150.72 (ONE DOLLAR DISCOUNT MAKES THIS $149.72)
+Currency,Amount,Note
+Pounds,£111.65,
+Dollars,$150.72,$149.72 after $1 discount
